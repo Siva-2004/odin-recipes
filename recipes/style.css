@@ -1,0 +1,20 @@
+body{
+    background-color: brown;
+    color: burlywood;
+    text-align: center;
+}
+
+
+img{
+    width: 600px;
+    height: auto;
+}
+
+.inste{
+    text-align: left;
+}
+
+.head{
+    text-align: center;
+    background-color: chocolate;
+}
